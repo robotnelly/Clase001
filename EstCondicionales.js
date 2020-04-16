@@ -155,7 +155,7 @@ while(contador <b){
 
  //con do while
 
- /*
+ 
  contador=0;
  piramide="";
  var cadena = "* ";
@@ -170,6 +170,6 @@ while(contador <b){
  }
  while(contador<b)
 
- */
+ 
 
  
